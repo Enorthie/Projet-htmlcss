@@ -216,14 +216,19 @@ h1 {
   background-size: cover;
   background-blend-mode: darken;
   color: white;
-  height: 400px;
+  height: 420px;
 }
 .photo1 {
   background-color: white;
-  width: 260px;
+  width: 220px;
+  border-radius: 10px;
 }
 .photo1-A {
   padding: 10px;
+}
+.rounded-img {
+  border-radius: 100%;
+  border: 2px solid white;
 }
 .photo1-B {
   padding: 10px;
